@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1058d72-7fc6-46ea-8b35-87624bfba209" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="work_shop_db@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="work_shop_db@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="work_shop_db@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="work_shop_db: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l1LUMXdrBD91TyXAv65aCZvgPz" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RunManager">
+    <configuration name="WorkshopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="workshop" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="softuni.workshop.WorkshopApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1058d72-7fc6-46ea-8b35-87624bfba209" name="Default Changelist" comment="" />
+      <created>1606759665663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606759665663</updated>
+      <workItem from="1606759684837" duration="17746000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="312" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606914177430">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="312" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1366.0.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1606914177430" />
+    <state x="525" y="149" key="#com.intellij.ide.util.MemberChooser" timestamp="1606929533032">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="525" y="149" key="#com.intellij.ide.util.MemberChooser/-1366.0.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1606929533032" />
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom" timestamp="1606932589114">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1606932589114" />
+    <state width="1397" height="222" key="GridCell.Tab.0.center" timestamp="1606932589113">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1606932589113" />
+    <state width="1397" height="222" key="GridCell.Tab.0.left" timestamp="1606932589113">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1606932589113" />
+    <state width="1397" height="222" key="GridCell.Tab.0.right" timestamp="1606932589114">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1606932589114" />
+    <state width="1397" height="222" key="GridCell.Tab.1.bottom" timestamp="1606932589115">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.1.bottom/-1366.0.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1606932589115" />
+    <state width="1397" height="222" key="GridCell.Tab.1.center" timestamp="1606932589114">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.1.center/-1366.0.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1606932589114" />
+    <state width="1397" height="222" key="GridCell.Tab.1.left" timestamp="1606932589114">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.1.left/-1366.0.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1606932589114" />
+    <state width="1397" height="222" key="GridCell.Tab.1.right" timestamp="1606932589115">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.1.right/-1366.0.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1606932589115" />
+    <state width="1397" height="276" key="GridCell.Tab.2.bottom" timestamp="1606931904876">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.2.bottom/-1366.0.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1606931904876" />
+    <state width="1397" height="276" key="GridCell.Tab.2.center" timestamp="1606931904875">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.2.center/-1366.0.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1606931904875" />
+    <state width="1397" height="276" key="GridCell.Tab.2.left" timestamp="1606931904875">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.2.left/-1366.0.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1606931904875" />
+    <state width="1397" height="276" key="GridCell.Tab.2.right" timestamp="1606931904875">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.2.right/-1366.0.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1606931904875" />
+    <state x="595" y="323" width="319" height="222" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1606915732397">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="595" y="323" width="319" height="222" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/-1366.0.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1606915732397" />
+    <state x="491" y="150" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1606924148884">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="491" y="150" key="com.intellij.testIntegration.createTest.CreateTestDialog/-1366.0.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1606924148884" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/softuni/workshop/service/services/impl/ProjectServiceImpl.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
